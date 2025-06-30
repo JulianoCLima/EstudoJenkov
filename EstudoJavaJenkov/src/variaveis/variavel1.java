@@ -5,6 +5,8 @@ public class variavel1 {
 		
 		System.out.println("teste");
 		System.out.println("juliano");
+		System.out.println("Cavalcante");
+		System.out.println("Lima");
 	}
 
 }
